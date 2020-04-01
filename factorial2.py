@@ -1,6 +1,4 @@
+s=1
 for i in range(1,21):
-    s=1
-    # Add a comment
-    for j in range(1,i+1):
-        s*=j
+    s*=i
     print("%d!=%d" %(i,s))
