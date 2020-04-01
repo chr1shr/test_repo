@@ -1,5 +1,5 @@
 s=1
-for i in range(1,15):
+for i in range(1,13):
     s*=i
 
-print("14 factorial is",s)
+print("12 factorial is",s)
